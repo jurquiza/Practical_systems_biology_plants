@@ -6,12 +6,15 @@ Mayor topics
 =============
 
 1. Python for systems biology
+  * Tellurium, Antimony and SloppyCell
+  * Formating your data
   * Reproducibility: Jupyter Notebooks, Docker, Git.
 2. Model building
   * Choosing functional forms, network motifs for bistability and oscillations
 3. Parameter inference
-  * Algorithms for fitting non-linear models to data
+  * Cost function statistics, prior distributions
   * The Geometry of the Cost landscape
+  * Algorithms for fitting non-linear models to data
   * Parameter uncertainty 
   * Parameter ensemble
 4. Model validation
