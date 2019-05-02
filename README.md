@@ -1,6 +1,6 @@
-# Welcome to Practical systems biology plant sciences 
+# Welcome to practical systems biology for plant sciences 
 
-This repository contains material for getting a first grasp on the delicate art of theoretical biology
+This repository contains material for getting a first grasp on the delicate art of theoretical biology. The course is based around examples from plant biology. This include phytochrome dynamics and circadian rhythms. This come from my work in two leading labs in the respective area. The now extinguished Millar lab and the currently active Halliday lab, both from the University of Edinburgh.
 
 Mayor topics 
 =============
