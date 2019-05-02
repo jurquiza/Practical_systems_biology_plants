@@ -1,0 +1,16 @@
+model *simple_reaction()
+
+  compartment tube;
+  species A in tube;
+  
+  dtA_dt: => A; tube*f;
+  
+  tube=1;
+  
+  A = 0;
+  
+  f=1;
+
+  const f;
+  
+end

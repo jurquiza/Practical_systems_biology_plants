@@ -1,0 +1,19 @@
+model *simple_reaction()
+
+  compartment tube;
+  species A in tube, B in tube, C in tube;
+  
+  dtC_dt: => C; tube*(f*A*B-b*C);
+  
+  tube=1;
+  
+  A = 1;
+  B = 2;
+  C = 0;
+  
+  f=1;
+  b=0.5;
+  
+  const f, b;
+  
+end
