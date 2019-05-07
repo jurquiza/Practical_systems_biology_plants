@@ -9,6 +9,7 @@ Mayor topics
   * Tellurium, Antimony and SloppyCell
   * Reproducibility: Jupyter Notebooks, Docker, Git.
   * Simple binding model
+  * Modelling Transcription factor binding to DNA (Affinity constants for Plants)
   * Creating synthetic data
   * Formatting your data
 2. Model building
