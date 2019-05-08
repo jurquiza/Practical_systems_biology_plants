@@ -1,6 +1,9 @@
 # Welcome to practical systems biology for plant sciences
 
-This repository contains material for getting a first grasp on the delicate art of theoretical biology. The course is based around examples from plant biology. This include phytochrome dynamics and circadian rhythms. This come from my work in two leading labs in the respective area. The now extinguished Millar lab and the currently active Halliday lab, both from the University of Edinburgh.
+This repository contains material for getting a first grasp on the delicate art of theoretical biology. This course focuses on plant biology. As synthetic biology becomes more stablished in plant biology we expect a higher use of mathematical approaches for system design. However must of systems biology courses are developed by researchers mainly working in microbial or mammalian systems.
+
+The content of this course is based on examples from phytochrome dynamics and circadian rhythms. This come from my work experience in two leading labs in the respective area. The now extinguished Millar lab and the currently active Halliday lab, both from the University of Edinburgh.
+
 
 Mayor topics
 =============
@@ -30,4 +33,4 @@ Mayor topics
 
 # Running the docker container in windows
 
-docker run -p 8883:8888 -v c:\path_to_Practical_systems_biology_plants\scripts\:/model/ -it uurquiza/urquiza2019a_tellurium_sloppycell:latest
+docker run -p 8883:8888 -v c:\path_to_\Practical_systems_biology_plants\scripts\:/model/ -it uurquiza/urquiza2019a_tellurium_sloppycell:latest
