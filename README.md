@@ -27,3 +27,7 @@ Mayor topics
 5. Model selection
   * Information based selection criteria, e.g. Akaike Information Criterion AIC
   * Model ensembles and uncertainty
+
+# Running the docker container in windows
+
+docker run -p 8883:8888 -v c:\path_to_Practical_systems_biology_plants\scripts\:/model/ -it uurquiza/urquiza2019a_tellurium_sloppycell:latest
