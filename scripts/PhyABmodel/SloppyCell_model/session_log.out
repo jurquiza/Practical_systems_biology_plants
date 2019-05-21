@@ -1,0 +1,547 @@
+[W 15:42:33.610 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 15:42:33.642 NotebookApp] JupyterLab extension loaded from /usr/local/lib/python2.7/dist-packages/jupyterlab
+[I 15:42:33.643 NotebookApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 15:42:33.651 NotebookApp] Serving notebooks from local directory: /files
+[I 15:42:33.651 NotebookApp] The Jupyter Notebook is running at:
+[I 15:42:33.652 NotebookApp] http://(a8ddda659c4d or 127.0.0.1):8888/
+[I 15:42:33.653 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:42:37.525 NotebookApp] 404 DELETE /api/sessions/3867ad7e-8cef-4fd7-ba81-1d2483216e82 (172.17.0.1): Session not found: session_id=u'3867ad7e-8cef-4fd7-ba81-1d2483216e82'
+[W 15:42:37.527 NotebookApp] Session not found: session_id=u'3867ad7e-8cef-4fd7-ba81-1d2483216e82'
+[W 15:42:37.529 NotebookApp] 404 DELETE /api/sessions/3867ad7e-8cef-4fd7-ba81-1d2483216e82 (172.17.0.1) 5.62ms referer=http://localhost:8881/notebooks/model/PhyAB_model_Fitting_documentation.ipynb
+[I 15:42:37.579 NotebookApp] Kernel started: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 15:42:37.955 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 15:43:59.801 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 15:45:26.577 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:24:44.349 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 16:24:44.971 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 16:24:45.352 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 16:24:45.355 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 16:24:45.356 NotebookApp] Replaying 3 buffered messages
+[I 16:25:59.725 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:27:59.726 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:33:34.948 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 16:33:35.638 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 16:33:36.094 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 16:33:36.096 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 16:33:36.102 NotebookApp] Replaying 6 buffered messages
+[I 16:33:59.713 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:35:23.678 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 16:35:24.303 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 16:35:24.680 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 16:35:24.683 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 16:35:24.684 NotebookApp] Replaying 6 buffered messages
+[I 16:35:59.718 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:37:59.711 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:39:59.714 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:44:02.767 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:51:57.955 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:52:01.699 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:52:26.547 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:53:46.044 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:54:36.479 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:54:38.447 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:54:45.699 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:55:12.242 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:55:22.998 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:56:02.762 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[W 16:56:08.539 NotebookApp] Notebook model/UPB2019.1/AB_interaction.ipynb is not trusted
+[I 16:56:09.370 NotebookApp] Kernel started: 19103409-7d6e-4133-a861-17c4d11d60e3
+[I 16:56:09.821 NotebookApp] Adapting to protocol v5.1 for kernel 19103409-7d6e-4133-a861-17c4d11d60e3
+[I 16:57:12.942 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:58:02.743 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:58:19.404 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 16:58:29.553 NotebookApp] Starting buffering for 19103409-7d6e-4133-a861-17c4d11d60e3:3652cbafdd1f4923a271a1dbc1c0450b
+[I 17:00:02.742 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:02:33.190 NotebookApp] Copying model/SloppyCell_model/phyAB_interaction_WT.xml to /model/SloppyCell_model
+[I 17:02:39.052 NotebookApp] Copying model/SloppyCell_model/phyAB_interaction_WT.xml to /model/SloppyCell_model
+[I 17:02:44.035 NotebookApp] Copying model/SloppyCell_model/phyAB_interaction_WT.xml to /model/SloppyCell_model
+[W 17:03:39.158 NotebookApp] delete /model/SloppyCell_model/phyAB_interaction_WT-Copy3.xml
+[W 17:03:39.164 NotebookApp] Skipping trash for /files/model/SloppyCell_model/phyAB_interaction_WT-Copy3.xml, on different device to home directory
+[W 17:03:59.365 NotebookApp] delete /model/SloppyCell_model/phyAB_interaction_phyA.xml
+[W 17:03:59.373 NotebookApp] Skipping trash for /files/model/SloppyCell_model/phyAB_interaction_phyA.xml, on different device to home directory
+[W 17:03:59.381 NotebookApp] delete /model/SloppyCell_model/phyAB_interaction_WT.xml
+[W 17:03:59.389 NotebookApp] Skipping trash for /files/model/SloppyCell_model/phyAB_interaction_WT.xml, on different device to home directory
+[W 17:03:59.398 NotebookApp] delete /model/SloppyCell_model/phyAB_interaction_phyB.xml
+[W 17:03:59.404 NotebookApp] Skipping trash for /files/model/SloppyCell_model/phyAB_interaction_phyB.xml, on different device to home directory
+[I 17:04:12.529 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 17:04:36.708 NotebookApp] Copying model/SloppyCell_model/phyAB_interaction to /model/SloppyCell_model
+[I 17:04:42.899 NotebookApp] Copying model/SloppyCell_model/phyAB_interaction-Copy1 to /model/SloppyCell_model
+[I 17:05:16.359 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyAm
+[I 17:05:21.381 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyAm
+[I 17:05:22.511 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyAm
+[I 17:05:53.331 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyBm
+[I 17:06:22.338 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:06:30.801 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:07:22.470 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:12:22.328 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:12:27.111 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:14:22.324 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:15:44.164 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:16:22.315 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:17:06.134 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:17:16.224 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:17:31.724 NotebookApp] Kernel interrupted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 17:18:22.315 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:19:07.275 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:19:48.405 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:20:22.313 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:21:12.865 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:21:33.975 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:21:45.297 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:22:05.223 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:22:07.372 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:22:08.849 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:22:13.194 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:22:56.237 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:23:03.563 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:23:26.070 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:24:06.450 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:24:21.067 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:24:22.308 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:25:01.012 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:26:22.302 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:26:52.683 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:27:13.757 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:27:18.516 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:28:11.680 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:29:48.006 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:30:02.828 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:30:22.296 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:32:22.304 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:32:33.402 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:32:57.848 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 17:32:58.833 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 17:33:17.477 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyAm
+[I 17:33:31.193 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyBm
+[I 17:34:15.466 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:34:22.302 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:35:11.774 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:35:34.259 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:36:22.293 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:41:10.028 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 17:41:10.748 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 17:41:11.165 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 17:41:11.168 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 17:41:11.170 NotebookApp] Replaying 3 buffered messages
+[I 17:41:40.434 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:41:43.241 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:42:22.279 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:43:02.346 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:43:14.599 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:43:34.705 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:43:48.120 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:44:29.846 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:46:14.995 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:46:22.273 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:46:36.997 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:46:48.679 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:46:55.667 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:46:58.125 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:47:16.463 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:47:41.882 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:47:59.211 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:48:02.668 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:48:22.272 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:51:53.200 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:52:22.267 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:52:30.533 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:52:59.487 NotebookApp] Kernel interrupted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 17:53:02.273 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:54:22.267 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:56:22.295 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:56:34.871 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:57:10.154 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 17:58:25.748 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 18:00:07.033 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyAm
+[I 18:00:23.896 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyBm
+[I 18:00:25.748 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 18:01:00.485 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+EATEDLY OR WITH ABS(H)=HMIN                       
+DASKR--  AT T (=R1) AND STEPSIZE H (=R2) THE                                    
+      In above,  R1 =   9.1191027261613E-01   R2 =   2.8481569385954E-14
+DASKR--  ERROR TEST FAILED REPEATEDLY OR WITH ABS(H)=HMIN                       
+DASKR--  AT T (=R1) AND STEPSIZE H (=R2) THE                                    
+      In above,  R1 =   9.1190910103642E-01   R2 =   2.4897638434864E-14
+DASKR--  ERROR TEST FAILED REPEATEDLY OR WITH ABS(H)=HMIN                       
+DASKR--  AT T (=R1) AND STEPSIZE H (=R2) THE                                    
+      In above,  R1 =   9.1191090492725E-01   R2 =   7.8801830971608E-14
+DASKR--  ERROR TEST FAILED REPEATEDLY OR WITH ABS(H)=HMIN                       
+DASKR--  AT T (=R1) AND STEPSIZE H (=R2) THE                                    
+      In above,  R1 =   9.1190909997458E-01   R2 =   7.4212161605722E-14
+DASKR--  ERROR TEST FAILED REPEATEDLY OR WITH ABS(H)=HMIN                       
+DASKR--  AT T (=R1) AND STEPSIZE H (=R2) THE                                    
+      In above,  R1 =   9.1190938387911E-01   R2 =   7.3732997831295E-14
+DASKR--  ERROR TEST FAILED REPEATEDLY OR WITH ABS(H)=HMIN                       
+DASKR--  AT T (=R1) AND STEPSIZE H (=R2) THE                                    
+      In above,  R1 =   9.1190962396116E-01   R2 =   2.9348175171262E-14
+DASKR--  ERROR TEST FAILED REPEATEDLY OR WITH ABS(H)=HMIN                       
+DASKR--  AT T (=R1) AND STEPSIZE H (=R2) THE                                    
+      In above,  R1 =   9.1190962396116E-01   R2 =   2.9348175171262E-14
+DASKR--  ERROR TEST FAILED REPEATEDLY OR WITH ABS(H)=HMIN                       
+DASKR--  AT T (=R1) AND STEPSIZE H (=R2) THE                                    
+      In above,  R1 =   7.7626189485017E-01   R2 =   7.7638499684143E-14
+DASKR--  ERROR TEST FAILED REPEATEDLY OR WITH ABS(H)=HMIN                       
+[I 18:01:01.430 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 18:01:01.879 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 18:01:01.881 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 18:01:01.882 NotebookApp] Replaying 6 buffered messages
+[I 18:02:25.756 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 18:02:31.632 NotebookApp] Kernel interrupted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 18:03:02.360 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 18:03:44.896 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 18:03:49.063 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 18:04:06.114 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 18:04:09.092 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:10:56.912 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:11:24.722 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:11:26.324 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:12:56.887 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:14:51.219 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:14:56.881 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:16:56.884 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:18:56.880 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:20:56.875 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:22:22.469 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:22:54.222 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:22:56.865 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:24:16.760 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:24:56.888 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:26:56.874 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:27:25.811 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:28:18.475 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[I 21:28:56.865 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:29:20.078 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[I 21:30:56.860 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[W 21:32:44.527 NotebookApp] Notebook model/UPB2019.1/AB_interaction.ipynb is not trusted
+[I 21:32:45.101 NotebookApp] Adapting to protocol v5.1 for kernel 19103409-7d6e-4133-a861-17c4d11d60e3
+[I 21:32:56.850 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:33:46.095 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:33:51.138 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[I 21:34:27.172 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[I 21:34:56.853 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[I 21:36:16.303 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[I 21:39:25.987 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-18 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10861e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77804e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.89426e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.03753e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.18912e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 5.50902e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: The above warning has been issued mxhnil times and will not be issued again for this problem.[0m
+[I 21:40:56.839 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:41:07.923 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.2999e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.2999e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 6.69499e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.65752e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 2.65752e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 4.05964e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 7.852e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.639e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 3.61468e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10819e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-17 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 9.10741e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.2999e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.2999e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 6.69463e-15 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[1m[33mWarning: CVODE Warning: , Module: CVODE, Function: CVode, Message: Internal t = 100 and h = 1.77235e-16 are such that t + h = t on the next step. The solver will continue anyway.[0m
+[I 21:42:56.882 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:44:12.056 NotebookApp] Kernel interrupted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 21:44:56.869 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:46:56.877 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:47:22.242 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:47:28.844 NotebookApp] Kernel interrupted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 21:48:56.869 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:50:56.866 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:50:57.135 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:52:56.862 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:53:13.851 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:54:56.853 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:56:56.865 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:57:28.913 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 21:58:34.194 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 21:58:56.845 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 21:59:29.609 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:00:01.195 NotebookApp] Saving file at /model/UPB2019.1/AB_interaction.ipynb
+[W 22:00:01.197 NotebookApp] Notebook model/UPB2019.1/AB_interaction.ipynb is not trusted
+[I 22:00:56.846 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:01:11.649 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:01:32.241 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyAm
+[I 22:01:52.402 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyBm
+[I 22:02:17.010 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:02:43.905 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[1m[33mWarning: Global parameter, 'R_levels' missing value and missing init assignment and assignment rule!, defaulting value to 0.0.[0m
+[1m[33mWarning: This probably is NOT what you want with global parameter 'R_levels'.[0m
+[I 22:02:54.228 NotebookApp] Starting buffering for 19103409-7d6e-4133-a861-17c4d11d60e3:bb7e77e7b860485ea4f6428ab6ecf628
+[I 22:02:56.840 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:03:07.915 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:04:50.919 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:06:40.319 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:06:46.662 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:06:56.832 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:07:02.886 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyBm
+[I 22:07:18.473 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:07:30.268 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:07:36.082 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:08:56.833 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:09:22.882 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:10:56.844 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:12:56.830 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:13:04.950 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:13:21.335 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+DASKR-- TOUT (=R1) TOO CLOSE TO T (=R2) TO START INTEGRATION                    
+      In above,  R1 =   1.0000000000000E+02   R2 =   1.0000000000000E+02
+[I 22:13:22.263 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 22:13:22.679 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 22:13:22.681 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 22:13:22.682 NotebookApp] Replaying 3 buffered messages
+[I 22:13:50.501 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:14:39.083 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:14:56.821 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:16:56.822 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:18:44.990 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:18:56.812 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:19:00.527 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:19:03.958 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:19:58.914 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:20:56.815 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:23:14.649 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 22:23:15.386 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 22:23:15.773 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 22:23:15.775 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 22:23:15.778 NotebookApp] Replaying 3 buffered messages
+[I 22:24:56.806 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:26:37.764 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:26:56.799 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:27:06.153 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:28:09.269 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:28:17.420 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyBm
+[I 22:28:23.042 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction_phyAm
+[I 22:28:56.762 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:29:09.023 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 22:29:09.742 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 22:29:10.115 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 22:29:10.118 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 22:29:10.120 NotebookApp] Replaying 6 buffered messages
+[I 22:30:56.767 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:32:56.766 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:33:40.538 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:34:56.764 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:36:56.752 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:37:45.237 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 22:37:45.955 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 22:37:46.339 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 22:37:46.340 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 22:37:46.348 NotebookApp] Replaying 3 buffered messages
+[I 22:38:56.747 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:40:08.584 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[W 22:40:27.677 NotebookApp] Notebook model/UPB2019.1/AB_interaction.ipynb is not trusted
+[I 22:40:28.103 NotebookApp] Adapting to protocol v5.1 for kernel 19103409-7d6e-4133-a861-17c4d11d60e3
+[I 22:40:56.772 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:40:59.295 NotebookApp] Starting buffering for 19103409-7d6e-4133-a861-17c4d11d60e3:042f9f2087994ee2957f01d731be4101
+[I 22:40:59.617 NotebookApp] Kernel restarted: 19103409-7d6e-4133-a861-17c4d11d60e3
+[I 22:41:00.009 NotebookApp] Adapting to protocol v5.1 for kernel 19103409-7d6e-4133-a861-17c4d11d60e3
+[I 22:41:00.011 NotebookApp] Restoring connection for 19103409-7d6e-4133-a861-17c4d11d60e3:042f9f2087994ee2957f01d731be4101
+[I 22:41:00.012 NotebookApp] Replaying 6 buffered messages
+[I 22:41:08.578 NotebookApp] Saving file at /model/UPB2019.1/AB_interaction.ipynb
+[W 22:41:08.580 NotebookApp] Notebook model/UPB2019.1/AB_interaction.ipynb is not trusted
+[I 22:42:19.573 NotebookApp] Starting buffering for 19103409-7d6e-4133-a861-17c4d11d60e3:042f9f2087994ee2957f01d731be4101
+[I 22:42:32.122 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:42:58.043 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:43:06.315 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:43:27.038 NotebookApp] Saving file at /model/SloppyCell_model/phyAB_interaction
+[I 22:44:58.048 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:48:58.038 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 22:50:58.034 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:09:55.269 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:10:01.141 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:10:04.705 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:11:08.015 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:14:31.318 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:15:07.997 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:16:28.919 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:16:46.238 NotebookApp] Kernel interrupted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 23:16:49.890 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:17:07.994 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 23:18:40.354 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 23:18:41.080 NotebookApp] Kernel restarted: 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 23:18:41.492 NotebookApp] Adapting to protocol v5.1 for kernel 7a5ac9c9-3135-463f-9aa9-66dcb95b6988
+[I 23:18:41.494 NotebookApp] Restoring connection for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8
+[I 23:18:41.495 NotebookApp] Replaying 3 buffered messages
+[I 23:18:59.279 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 08:19:32.901 NotebookApp] Saving file at /model/PhyAB_model_Fitting_documentation.ipynb
+[I 08:19:34.568 NotebookApp] Starting buffering for 7a5ac9c9-3135-463f-9aa9-66dcb95b6988:ba9094a4a1d144dc8e4741b76465aba8

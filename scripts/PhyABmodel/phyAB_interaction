@@ -1,0 +1,69 @@
+model *AB_model()
+
+  compartment cell;
+  species Am in cell, Ar in cell, Afr in cell;
+  species Bm in cell, Br in cell, Bfr in cell;
+
+  dtAm: => Am; n1*g1/(g1+Bfr)*g2/(g2+Afr)-m1*Am;
+  dtAr: => Ar; (1-muta)*p1*Am-Ar*(m2a*Bfr/(g3+Bfr)+m2b)-n3*Ar*FR+m6*Afr*R+m7*Afr;
+  dtAfr: => Afr; n3*Ar*FR-m6*R*Afr-m7*Afr-Afr*(m2a*Bfr/(g3+Bfr)+m2b);
+  dtBm: => Bm; n2*g4/(g4+Bfr)-m3*Bm;
+  dtBr: => Br; (1-mutb)*p2*Bm-m4*Br-n3*R*Br+m5*Bfr+m6*FR*Bfr;
+  dtBfr: => Bfr; n3*R*Br-m5*Bfr-m6*FR*Bfr-m4*Bfr;
+
+  Bfr=0;
+  Br=0;
+  Bm=0;
+  A=0;
+  Am=0;
+
+  cell=1;
+  n1=0.1;
+  n2=0.4;
+  n3=10;
+
+  p1=0.2;
+  p2=1;
+
+  m1=0.9;
+  m2a=0.1;
+  m2b=0.1;
+  m3=0.5;
+  m4=0.3;
+  m5=0.05;
+  m6=20;
+  m7=2;
+  mutb=0;
+  muta=0;
+
+  g1=0.5; //matching levels
+  g2=0.03;
+  g3=.9;
+  g4=0.1;
+  g5=100;
+
+  R_levels=1;
+  R=0
+  FR_levels=1;
+  FR=0;
+  PF = 12;
+
+  var R,FR;
+  const n1,n2,n3, p1, p2;
+  const m1,m2a, m2b,m3,m4,m5, m6,mutb, muta, m7;
+  const g1,g2,g3,g4;
+
+  at time > 100: R=R_levels;
+  at time > 100: FR=FR_levels;
+
+  //at (time % 24) > PF : R = 0;
+  //at (time % 24) < PF : R = R_levels;
+
+  //at (time % 24) > PF : FR = 0;
+  //at (time % 24) < PF : FR = FR_levels;
+
+  //at (time % 24) > PF : FR = 2;
+  //at (time % 24) < PF : FR = 2;
+
+
+end

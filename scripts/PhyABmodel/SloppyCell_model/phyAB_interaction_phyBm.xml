@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level3/version1/core" level="3" version="1">
+  <model id="AB_model" name="AB_model">
+    <listOfCompartments>
+      <compartment id="cell" spatialDimensions="3" size="1" constant="true"/>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species id="Am" compartment="cell" initialConcentration="0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species id="Ar" compartment="cell" initialConcentration="0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species id="Afr" compartment="cell" initialConcentration="0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species id="Bm" compartment="cell" initialConcentration="0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species id="Br" compartment="cell" initialConcentration="0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species id="Bfr" compartment="cell" initialConcentration="0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+    </listOfSpecies>
+    <listOfParameters>
+      <parameter id="n1" value="0.1" constant="true"/>
+      <parameter id="g1" value="0.5" constant="true"/>
+      <parameter id="g2" value="0.03" constant="true"/>
+      <parameter id="m1" value="0.9" constant="true"/>
+      <parameter id="p1" value="0.2" constant="true"/>
+      <parameter id="m2a" value="0.1" constant="true"/>
+      <parameter id="g3" value="0.9" constant="true"/>
+      <parameter id="m2b" value="0.1" constant="true"/>
+      <parameter id="n3" value="10" constant="true"/>
+      <parameter id="FR" value="0" constant="false"/>
+      <parameter id="m6" value="20" constant="true"/>
+      <parameter id="R" value="0" constant="false"/>
+      <parameter id="m7" value="2" constant="true"/>
+      <parameter id="n2" value="0.4" constant="true"/>
+      <parameter id="g4" value="0.1" constant="true"/>
+      <parameter id="m3" value="0.5" constant="true"/>
+      <parameter id="p2" value="1" constant="true"/>
+      <parameter id="m4" value="0.3" constant="true"/>
+      <parameter id="m5" value="0.05" constant="true"/>
+    </listOfParameters>
+    <listOfReactions>
+      <reaction id="dtAm" reversible="false" fast="false">
+        <listOfProducts>
+          <speciesReference species="Am" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="Afr"/>
+          <modifierSpeciesReference species="Bfr"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <minus/>
+              <apply>
+                <divide/>
+                <apply>
+                  <times/>
+                  <apply>
+                    <divide/>
+                    <apply>
+                      <times/>
+                      <ci> n1 </ci>
+                      <ci> g1 </ci>
+                    </apply>
+                    <apply>
+                      <plus/>
+                      <ci> g1 </ci>
+                      <ci> Bfr </ci>
+                    </apply>
+                  </apply>
+                  <ci> g2 </ci>
+                </apply>
+                <apply>
+                  <plus/>
+                  <ci> g2 </ci>
+                  <ci> Afr </ci>
+                </apply>
+              </apply>
+              <apply>
+                <times/>
+                <ci> m1 </ci>
+                <ci> Am </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction id="dtAr" reversible="false" fast="false">
+        <listOfProducts>
+          <speciesReference species="Ar" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="Afr"/>
+          <modifierSpeciesReference species="Bfr"/>
+          <modifierSpeciesReference species="Am"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <plus/>
+              <apply>
+                <minus/>
+                <apply>
+                  <minus/>
+                  <apply>
+                    <times/>
+                    <ci> p1 </ci>
+                    <ci> Am </ci>
+                  </apply>
+                  <apply>
+                    <times/>
+                    <ci> Ar </ci>
+                    <apply>
+                      <plus/>
+                      <apply>
+                        <divide/>
+                        <apply>
+                          <times/>
+                          <ci> m2a </ci>
+                          <ci> Bfr </ci>
+                        </apply>
+                        <apply>
+                          <plus/>
+                          <ci> g3 </ci>
+                          <ci> Bfr </ci>
+                        </apply>
+                      </apply>
+                      <ci> m2b </ci>
+                    </apply>
+                  </apply>
+                </apply>
+                <apply>
+                  <times/>
+                  <ci> n3 </ci>
+                  <ci> Ar </ci>
+                  <ci> FR </ci>
+                </apply>
+              </apply>
+              <apply>
+                <times/>
+                <ci> m6 </ci>
+                <ci> Afr </ci>
+                <ci> R </ci>
+              </apply>
+              <apply>
+                <times/>
+                <ci> m7 </ci>
+                <ci> Afr </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction id="dtAfr" reversible="false" fast="false">
+        <listOfProducts>
+          <speciesReference species="Afr" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="Ar"/>
+          <modifierSpeciesReference species="Bfr"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <minus/>
+              <apply>
+                <minus/>
+                <apply>
+                  <minus/>
+                  <apply>
+                    <times/>
+                    <ci> n3 </ci>
+                    <ci> Ar </ci>
+                    <ci> FR </ci>
+                  </apply>
+                  <apply>
+                    <times/>
+                    <ci> m6 </ci>
+                    <ci> R </ci>
+                    <ci> Afr </ci>
+                  </apply>
+                </apply>
+                <apply>
+                  <times/>
+                  <ci> m7 </ci>
+                  <ci> Afr </ci>
+                </apply>
+              </apply>
+              <apply>
+                <times/>
+                <ci> Afr </ci>
+                <apply>
+                  <plus/>
+                  <apply>
+                    <divide/>
+                    <apply>
+                      <times/>
+                      <ci> m2a </ci>
+                      <ci> Bfr </ci>
+                    </apply>
+                    <apply>
+                      <plus/>
+                      <ci> g3 </ci>
+                      <ci> Bfr </ci>
+                    </apply>
+                  </apply>
+                  <ci> m2b </ci>
+                </apply>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction id="dtBm" reversible="false" fast="false">
+        <listOfProducts>
+          <speciesReference species="Bm" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="Bfr"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <minus/>
+              <apply>
+                <divide/>
+                <apply>
+                  <times/>
+                  <ci> n2 </ci>
+                  <ci> g4 </ci>
+                </apply>
+                <apply>
+                  <plus/>
+                  <ci> g4 </ci>
+                  <ci> Bfr </ci>
+                </apply>
+              </apply>
+              <apply>
+                <times/>
+                <ci> m3 </ci>
+                <ci> Bm </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction id="dtBr" reversible="false" fast="false">
+        <listOfProducts>
+          <speciesReference species="Br" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="Bfr"/>
+          <modifierSpeciesReference species="Bm"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <plus/>
+              <apply>
+                <minus/>
+                <apply>
+                  <minus/>
+                  <apply>
+                    <times/>
+                    <cn type="integer"> 0 </cn>
+                    <ci> p2 </ci>
+                    <ci> Bm </ci>
+                  </apply>
+                  <apply>
+                    <times/>
+                    <ci> m4 </ci>
+                    <ci> Br </ci>
+                  </apply>
+                </apply>
+                <apply>
+                  <times/>
+                  <ci> n3 </ci>
+                  <ci> R </ci>
+                  <ci> Br </ci>
+                </apply>
+              </apply>
+              <apply>
+                <times/>
+                <ci> m5 </ci>
+                <ci> Bfr </ci>
+              </apply>
+              <apply>
+                <times/>
+                <ci> m6 </ci>
+                <ci> FR </ci>
+                <ci> Bfr </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction id="dtBfr" reversible="false" fast="false">
+        <listOfProducts>
+          <speciesReference species="Bfr" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="Br"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <minus/>
+              <apply>
+                <minus/>
+                <apply>
+                  <minus/>
+                  <apply>
+                    <times/>
+                    <ci> n3 </ci>
+                    <ci> R </ci>
+                    <ci> Br </ci>
+                  </apply>
+                  <apply>
+                    <times/>
+                    <ci> m5 </ci>
+                    <ci> Bfr </ci>
+                  </apply>
+                </apply>
+                <apply>
+                  <times/>
+                  <ci> m6 </ci>
+                  <ci> FR </ci>
+                  <ci> Bfr </ci>
+                </apply>
+              </apply>
+              <apply>
+                <times/>
+                <ci> m4 </ci>
+                <ci> Bfr </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+    </listOfReactions>
+  </model>
+</sbml>
