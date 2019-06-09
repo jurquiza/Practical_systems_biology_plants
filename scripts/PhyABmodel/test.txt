@@ -1,0 +1,52 @@
+// Created by libAntimony v2.9.4
+model *AB_model()
+
+  // Compartments and Species:
+  compartment cell;
+  species Am in cell, Ar in cell, Afr in cell, Bm in cell, Br in cell, Bfr in cell;
+
+  // Reactions:
+  dtAm:  => Am; (n1*g1/(g1 + Bfr))*g2/(g2 + Afr) - m1*Am;
+  dtAr:  => Ar; (p1*Am - Ar*(m2a*Bfr/(g3 + Bfr) + m2b) - n3*Ar*FR) + m6*Afr*R + m7*Afr;
+  dtAfr:  => Afr; n3*Ar*FR - m6*R*Afr - m7*Afr - Afr*(m2a*Bfr/(g3 + Bfr) + m2b);
+  dtBm:  => Bm; n2*g4/(g4 + Bfr) - m3*Bm;
+  dtBr:  => Br; (p2*Bm - m4*Br - n3*R*Br) + m5*Bfr + m6*FR*Bfr;
+  dtBfr:  => Bfr; n3*R*Br - m5*Bfr - m6*FR*Bfr - m4*Bfr;
+
+  // Species initializations:
+  Am = 0;
+  Ar = 0;
+  Afr = 0;
+  Bm = 0;
+  Br = 0;
+  Bfr = 0;
+
+  // Compartment initializations:
+  cell = 1;
+
+  // Variable initializations:
+  n1 = 3;
+  g1 = 0.5;
+  g2 = 0.03;
+  m1 = 0.9;
+  p1 = 0.2;
+  m2a = 0.1;
+  g3 = 0.9;
+  m2b = 0.1;
+  n3 = 10;
+  FR = 0;
+  m6 = 20;
+  R = 0;
+  m7 = 2;
+  n2 = 0.4;
+  g4 = 0.1;
+  m3 = 0.5;
+  p2 = 1;
+  m4 = 0.3;
+  m5 = 0.05;
+
+  // Other declarations:
+  var FR, R;
+  const cell, n1, g1, g2, m1, p1, m2a, g3, m2b, n3, m6, m7, n2, g4, m3, p2;
+  const m4, m5;
+end

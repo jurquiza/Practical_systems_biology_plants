@@ -39,8 +39,8 @@
           <speciesReference species="Am" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <listOfModifiers>
-          <modifierSpeciesReference species="Afr"/>
           <modifierSpeciesReference species="Bfr"/>
+          <modifierSpeciesReference species="Afr"/>
         </listOfModifiers>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -86,8 +86,8 @@
         </listOfProducts>
         <listOfModifiers>
           <modifierSpeciesReference species="Am"/>
-          <modifierSpeciesReference species="Afr"/>
           <modifierSpeciesReference species="Bfr"/>
+          <modifierSpeciesReference species="Afr"/>
         </listOfModifiers>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">

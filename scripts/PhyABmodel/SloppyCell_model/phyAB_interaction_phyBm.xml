@@ -39,8 +39,8 @@
           <speciesReference species="Am" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <listOfModifiers>
-          <modifierSpeciesReference species="Afr"/>
           <modifierSpeciesReference species="Bfr"/>
+          <modifierSpeciesReference species="Afr"/>
         </listOfModifiers>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -85,8 +85,8 @@
           <speciesReference species="Ar" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <listOfModifiers>
-          <modifierSpeciesReference species="Afr"/>
           <modifierSpeciesReference species="Bfr"/>
+          <modifierSpeciesReference species="Afr"/>
           <modifierSpeciesReference species="Am"/>
         </listOfModifiers>
         <kineticLaw>
@@ -151,8 +151,8 @@
           <speciesReference species="Afr" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <listOfModifiers>
-          <modifierSpeciesReference species="Ar"/>
           <modifierSpeciesReference species="Bfr"/>
+          <modifierSpeciesReference species="Ar"/>
         </listOfModifiers>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -244,8 +244,8 @@
           <speciesReference species="Br" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <listOfModifiers>
-          <modifierSpeciesReference species="Bfr"/>
           <modifierSpeciesReference species="Bm"/>
+          <modifierSpeciesReference species="Bfr"/>
         </listOfModifiers>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
